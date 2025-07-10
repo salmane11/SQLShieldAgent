@@ -45,5 +45,5 @@ The application employs a multi-agent pipeline to ensure both **functionality** 
 
 ### ⚙️ Summary Flow
 
+![Agents-based-architecture (1)_page-0001](https://github.com/user-attachments/assets/858ceb31-f43f-4ab6-b4d6-8a46df2d9811)
 
-[Agents-based-architecture.pdf](https://github.com/user-attachments/files/21167944/Agents-based-architecture.pdf)
